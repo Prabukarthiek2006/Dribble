@@ -172,4 +172,4 @@ Publish the website in the LocalHost.
 ![alt text](<Screenshot 2024-12-27 134834.png>)
 
 ## RESULT:
-The Project for responsive web design using Bootstrap is completed successfully.
+The Project for responsive web design using Bootstrap is completed successfully
